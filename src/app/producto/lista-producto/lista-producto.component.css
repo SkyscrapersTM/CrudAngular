@@ -1,0 +1,15 @@
+.boton{
+	background: none;
+	border: none;
+	text-align: center;
+	margin-left: 4px;
+}
+
+
+.boton-editar{
+	color: rgb(251, 251, 251);
+}
+
+.boton-eliminar{
+	color: rgb(251, 251, 251);
+}
